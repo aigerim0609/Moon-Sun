@@ -1,0 +1,31 @@
+i{
+    position: absolute;
+    font-size: 130px;
+    top: 46%;
+    margin-left: 45%;
+    
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+@media (max-width:384px) {
+    i{
+        position: absolute;
+        font-size: 130px;
+        top: 46%;
+        margin-left: 40%;
+        
+    }
+    h1{
+        font-family: Arial, Helvetica, sans-serif;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-weight: 500;
+        font-size: 30px;
+    }
+}
