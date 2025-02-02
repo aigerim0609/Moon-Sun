@@ -12,12 +12,12 @@ h1{
     justify-content: center;
     align-items: center;
 }
-@media (max-width:384px) {
+@media (max-width:430px) {
     i{
         position: absolute;
         font-size: 130px;
         top: 46%;
-        margin-left: 40%;
+        margin-left: 35%;
         
     }
     h1{
@@ -25,7 +25,5 @@ h1{
         display: flex;
         justify-content: center;
         align-items: center;
-        font-weight: 500;
-        font-size: 30px;
     }
 }
